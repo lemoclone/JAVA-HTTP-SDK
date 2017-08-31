@@ -149,7 +149,7 @@ public class ApiTest {
 
 	@Test
 	public void testFinddevicesList() {
-		String key = "9ylHzkz25nre41i=SuJR=F=k5kU=";
+		String key = "XM1xAFfU=O9S4hHOaRjg6K5=zU4=";
 
 		/**
 		 * 模糊查询设备
